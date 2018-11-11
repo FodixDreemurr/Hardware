@@ -1,8 +1,7 @@
-# Virgulilla
+# Ionice
 
-# Usos en informática.
 
-· En sistemas UNIX se utiliza para identificar al directorio de usuario.
-· En MS-DOS y en la consola Windows sirve para indicar uno de los muchos posibles archivos que tienen el mismo inicio.
-· En lenguaje C++ se utiliza como prefijo del nombre del destructor de clases.
-· En lenguaje de programación Matlab representa la negación.
+Ionice nos permite controlar con que prioridad tienen acceso los recursos de entrada y salida.
+
+
+Para modificar la prioridad ponemos el siguiente comando: ionice -(el número de prioridad que deseas)
